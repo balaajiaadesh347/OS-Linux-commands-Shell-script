@@ -975,10 +975,11 @@ done
 ```
 $ ./forin3.sh 
 
- $ ./forin2.sh
+ $ ./forin3.sh
  ## output:
 
- <img width="633" height="134" alt="image" src="https://github.com/user-attachments/assets/a85314c1-399f-4a92-a863-8df39df95111" />
+<img width="639" height="204" alt="image" src="https://github.com/user-attachments/assets/000ca390-7981-4e1e-87cb-3e052d026e98" />
+
 
 cat > forin1.sh 
 ```bash
@@ -995,7 +996,8 @@ $ ./forin2.sh
 
 ## OUTPUT
 
-<img width="633" height="134" alt="image" src="https://github.com/user-attachments/assets/8ccb6917-4906-4ad0-a352-e7ec55eaa5b7" />
+<img width="637" height="161" alt="image" src="https://github.com/user-attachments/assets/6d49c915-d30b-49e3-8758-6a8f7edbfa55" />
+
 
 cat forinfile.sh 
 ```bash
@@ -1019,6 +1021,8 @@ Khammam
 
 ## OUTPUT
 
+<img width="636" height="178" alt="image" src="https://github.com/user-attachments/assets/e79a1ba4-f04e-4330-83f4-7f6e41113871" />
+
 
 cat forctype.sh 
 ```bash
@@ -1033,6 +1037,8 @@ $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
 
+<img width="626" height="138" alt="image" src="https://github.com/user-attachments/assets/169fab7b-cd93-47f8-bea1-5f7718122880" />
+
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -1045,6 +1051,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+
+<img width="626" height="138" alt="image" src="https://github.com/user-attachments/assets/b9dc3cfb-c190-40d8-858a-6a86919ffb76" />
 
 cat fornested1.sh 
 ```bash
@@ -1064,7 +1072,9 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
- 
+
+ <img width="629" height="288" alt="image" src="https://github.com/user-attachments/assets/a2272364-d99d-4858-bff1-87eeeb5f3a96" />
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
@@ -1079,11 +1089,15 @@ echo "Iteration number: $var1"
 done
 echo "The for loop is completed“
 ```
-## OUTPUT
+
 
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
+## OUTPUT
+
+<img width="656" height="78" alt="image" src="https://github.com/user-attachments/assets/61783a16-3250-4a6c-954a-25126d5b5e2b" />
+
  
 cat forbreak.sh 
 ```bash
@@ -1105,7 +1119,9 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+
+ 	<img width="656" height="115" alt="image" src="https://github.com/user-attachments/assets/4acec7de-1782-4bb4-8c05-debc3e38c664" />
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1119,6 +1135,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="653" height="70" alt="image" src="https://github.com/user-attachments/assets/97554697-826f-4449-9aae-21922d02c589" />
 
 
  cat exread1.sh
@@ -1154,10 +1171,12 @@ fi
 ## OUTPUT
  ./funcex.sh 
 
- 
+ <img width="653" height="49" alt="image" src="https://github.com/user-attachments/assets/03ac87bb-d2da-4efb-9d72-b7fe45291795" />
+
  ./funcex.sh 1 2
 
- 
+ <img width="653" height="49" alt="image" src="https://github.com/user-attachments/assets/f4f332ce-79bf-4a8b-9477-bab6852eeb5b" />
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1170,7 +1189,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ <img width="656" height="90" alt="image" src="https://github.com/user-attachments/assets/e4b773cf-d606-4e1f-ac2b-e13a3be807c5" />
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1186,6 +1206,8 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+<img width="656" height="90" alt="image" src="https://github.com/user-attachments/assets/0752b901-99a0-4ca8-a91f-f33b8788d714" />
+
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh
@@ -1200,7 +1222,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ <img width="656" height="330" alt="image" src="https://github.com/user-attachments/assets/27146c15-01da-490d-8779-3105ea7756a8" />
+
  
 cat > nc.awk
 ```bash
@@ -1231,7 +1254,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ <img width="654" height="315" alt="image" src="https://github.com/user-attachments/assets/9328944b-1898-47ea-84ce-7e3d14ac78b9" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1259,6 +1283,7 @@ fi
 ```
 ## OUTPUT 
 
+<img width="655" height="93" alt="image" src="https://github.com/user-attachments/assets/18036e2b-566e-4971-8785-d604fa276b4e" />
 
 # RESULT:
 The Commands are executed successfully.
